@@ -5,7 +5,7 @@ import akka.actor.typed.ActorSystem
 import com.typesafe.config.ConfigFactory
 import messages.Request
 
-import java.time.{ZoneId, ZonedDateTime}
+import java.time.ZonedDateTime
 import scala.io.Source
 import scala.util.Using
 
