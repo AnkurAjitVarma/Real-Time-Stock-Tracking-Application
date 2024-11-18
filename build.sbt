@@ -1,3 +1,4 @@
+enablePlugins(AssemblyPlugin)
 lazy val akkaHttpVersion = "10.6.1"
 lazy val akkaVersion    = "2.9.2"
 resolvers += "Akka library repository".at("https://repo.akka.io/maven")
