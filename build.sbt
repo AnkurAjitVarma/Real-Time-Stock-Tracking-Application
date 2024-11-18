@@ -7,7 +7,7 @@ lazy val root = (project in file(".")).
   settings(
     inThisBuild(List(
       version := "0.1.0-SNAPSHOT",
-      scalaVersion    := "2.13.12"
+      scalaVersion    := "2.13.15"
     )),
     name := "Real-Time-Stock-Tracking-Application",
     libraryDependencies ++= Seq(
